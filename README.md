@@ -2,6 +2,6 @@
 
 ## 27.02.2016
 
-...sh
+```sh
 This is my first edited README.md
-...
+```
