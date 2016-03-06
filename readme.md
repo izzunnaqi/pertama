@@ -1,7 +1,12 @@
 Pertama
-=========
+----------------
 
-## [25.02.2016] ##
+### 27.02.2016 ###
 
-$ This is me trying to edit README.md
+```
+This is my first update
+```
 
+```
+Second
+```
