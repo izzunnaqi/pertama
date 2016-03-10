@@ -15,6 +15,13 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/menu', function(){
+	return view('menu');
+});
+Route::get('/menu/detail', function(){
+	return view('menu.detail');
+});
+
 /*
 |--------------------------------------------------------------------------
 | Application Routes
