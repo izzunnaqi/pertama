@@ -1,6 +1,6 @@
 @extends('welcome')
 
-@section('content') 
+@section('bar') 
 
-	<h3>Detail Page</h3>>
-@show
+	<h3>Detail Page</h3>
+@stop

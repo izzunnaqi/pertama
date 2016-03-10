@@ -1,8 +1,8 @@
 @extends('welcome')
 
 
-@section('content')
+@section('bar')
 
 	<h3>Menu Page</h3>
 
-@show
+@stop

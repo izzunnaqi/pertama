@@ -39,6 +39,13 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 5</div>
+
+                <div class="subtitle">
+
+                @yield('bar')
+
+
+                </div>
             </div>
         </div>
     </body>
