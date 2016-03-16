@@ -42,9 +42,11 @@
 
                 <div class="subtitle">
 
-                @yield('bar')
+                @section('bar')   
+                
+                @show
 
-
+                <h3><a href="/menu">Menu Page</a> <a href="/menu/detail">Detail Page</a></h3>
                 </div>
             </div>
         </div>
